@@ -19,7 +19,9 @@ Simply enclose what you want to have in landscape format using the landscape div
 Portrait format
 
 ::: {.landscape}
+
 Landscape format
+
 :::
 
 Portrait format
