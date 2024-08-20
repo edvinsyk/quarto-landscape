@@ -1,0 +1,7 @@
+*.tex
+*.docx
+*.typ
+*.html
+*.pdf
+*_files/
+/.luarc.json
