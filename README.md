@@ -17,7 +17,6 @@ If you're using version control, you will want to check in this directory.
 Simply enclose what you want to have in landscape format using the landscape div.
 
 ```{markdown}
-
 Portrait format
 
 ::: {.landscape}
