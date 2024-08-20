@@ -6,7 +6,7 @@ It implements the same div for docx, latex, and Typst, making it easier to switc
 ## Installing
 
 ```bash
-quarto add edvinsyk/landscape
+quarto add edvinsyk/quarto-landscape
 ```
 
 This will install the extension under the `_extensions` subdirectory.
@@ -15,6 +15,8 @@ If you're using version control, you will want to check in this directory.
 ## Using
 
 Simply enclose what you want to have in landscape format using the landscape div.
+
+```{markdown}
 
 Portrait format
 
@@ -25,6 +27,7 @@ Landscape format
 :::
 
 Portrait format
+```
 
 This is commonly needed for displaying graphs or tables with dimensions when writing papers or content.
 PDFs require the following in the YAML.
