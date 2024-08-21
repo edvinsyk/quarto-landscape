@@ -31,6 +31,17 @@ Portrait format
 This is commonly needed for displaying graphs or tables with dimensions when writing papers or content.
 PDFs require the following in the YAML.
 
+## Required in YAML
+
+The following is required in YAML for the extension to work:
+
+ ```{yaml}
+# Required for all:
+filters:
+  - landscape
+
+# Required for PDF:
+
 ```{yaml}
 format:
   pdf:
