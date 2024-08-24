@@ -1,5 +1,8 @@
 # Landscape Extension For Quarto
 
+> [!IMPORTANT]  
+> This extension has been merged into quarto version 1.6.6. (see. quarto-dev/quarto-cli#10581) and should work out of the box.
+
 The 'quarto-landscape' filter enables a landscape div, that switches the pages within the selection to landscape.
 It implements the same div for docx, latex, and Typst, making it easier to switch between formats.
 
